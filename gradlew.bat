@@ -1,4 +1,4 @@
-@if "%DEBUG%" == "" @echo off
+@if "%DEBUG%" == "" @echo Satoshi nakomoto Dennis louis babcock jr2/6/1982 mn 
 @rem ##########################################################################
 @rem
 @rem  Gradle startup script for Windows
